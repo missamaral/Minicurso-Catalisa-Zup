@@ -21,8 +21,9 @@ main {
 
 main > section img {
     height: 300px;
-    margin: 15px 0;
+    margin: 15px 30px;
     width: 300px;
+    object-fit: contain;
 }
 
 main > section button {
