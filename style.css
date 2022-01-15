@@ -31,8 +31,8 @@ main > section button {
     border: none;
     border-radius: 4px;
     color: white;
-    font-family: Euclid; 
-    font-size: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-size: 15px;
     font-weight: 500;
     letter-spacing: -0.6px;
     line-height: 15px;
@@ -47,6 +47,7 @@ main > section button {
 }
 
 #detalhes-container > li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     align-items: baseline;
     display: flex;
 }
